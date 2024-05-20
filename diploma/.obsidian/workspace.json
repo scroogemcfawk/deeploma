@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "f7e0c6d975d6b3a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "98616fc31b9cc3f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55e8b0dc0d8a22ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структура.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc425bba5b5ed85b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структура.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c8c7f32dc352b1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структура.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bb5a63184da4be7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структура.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29fda96a3a490f08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структура.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "423953a13ebd8acf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структура.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee83a03867b138c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Реализация.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a6eefdb6eee7866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структура.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "342f349b819f93c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структура.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24a0ee678f5b749a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Анализ предметной области.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d43789c4ca14ac2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a9d6e34a5c8ecd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c88dfb350e9d496c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22210e0388bab4b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5478f1d36137028",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95ee08ed8ee4bdd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e674f509eb7c146a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84e4bcb46c9f37ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Анализ предметной области.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f107873dbc85d8f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Анализ предметной области.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "704672b4ba2230df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd1403e9fd488437",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Анализ предметной области.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "24a0ee678f5b749a",
+  "lastOpenFiles": [
+    "3. Исследование платформы Luwrain.md",
+    "2. Анализ предметной области.md",
+    "1. Введение.md",
+    "Структура.md",
+    "8. Список источников.md",
+    "7. Заключение.md",
+    "6. Тестирование.md",
+    "5. Реализация.md",
+    "4. Проектирование.md",
+    "0. Условные обозначения.md",
+    "Welcome.md"
+  ]
+}
