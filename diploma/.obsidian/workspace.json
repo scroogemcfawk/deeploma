@@ -8,90 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55e8b0dc0d8a22ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структура.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc425bba5b5ed85b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структура.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c8c7f32dc352b1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структура.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bb5a63184da4be7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структура.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29fda96a3a490f08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структура.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "423953a13ebd8acf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структура.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee83a03867b138c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Реализация.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5a6eefdb6eee7866",
             "type": "leaf",
             "state": {
@@ -104,24 +20,12 @@
             }
           },
           {
-            "id": "342f349b819f93c0",
+            "id": "2b23b087722c7dba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Структура.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24a0ee678f5b749a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Анализ предметной области.md",
+                "file": "1. Введение.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Анализ предметной области.md",
+                "file": "8. Список источников.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Анализ предметной области.md",
+                "file": "1. Введение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Анализ предметной области.md",
+                "file": "1. Введение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Анализ предметной области.md"
+                "file": "1. Введение.md"
               }
             }
           }
@@ -267,21 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75009790132f9b5d",
+  "active": "2b23b087722c7dba",
   "lastOpenFiles": [
-    "mastodon-web-ed.png",
     "2. Анализ предметной области.md",
-    "mastodon-web.png",
     "4. Проектирование.md",
-    "1. Введение.md",
-    "1.1. Актуальность?.md",
+    "5. Реализация.md",
     "3. Исследование платформы Luwrain.md",
-    "Структура.md",
+    "1. Введение.md",
+    "0. Условные обозначения.md",
+    "1.1. Актуальность?.md",
     "8. Список источников.md",
+    "mastodon-web-ed.png",
+    "mastodon-web.png",
+    "Структура.md",
     "7. Заключение.md",
     "6. Тестирование.md",
-    "5. Реализация.md",
-    "0. Условные обозначения.md",
     "Welcome.md"
   ]
 }
