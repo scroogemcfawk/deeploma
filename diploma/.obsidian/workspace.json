@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Реализация.md",
+                "file": "4. Проектирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Реализация.md",
+                "file": "4. Проектирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Реализация.md",
+                "file": "4. Проектирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Реализация.md"
+                "file": "4. Проектирование.md"
               }
             }
           }
@@ -185,13 +185,13 @@
   },
   "active": "2b23b087722c7dba",
   "lastOpenFiles": [
+    "5. Реализация.md",
+    "2. Анализ предметной области.md",
     "4. Проектирование.md",
     "6. Тестирование.md",
-    "5. Реализация.md",
     "8. Список источников.md",
     "1. Введение.md",
     "7. Заключение.md",
-    "2. Анализ предметной области.md",
     "use-case-diagram.png",
     "Mastodon CLI - Page 2(1).png",
     "temp.md",
