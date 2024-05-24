@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Структура.md",
+                "file": "1. Введение.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,9 +23,19 @@
             "id": "2b23b087722c7dba",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "use-case-diagram.png"
+              }
+            }
+          },
+          {
+            "id": "0c3f254c04c21b1a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Введение.md",
+                "file": "5. Реализация.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Введение.md",
+                "file": "5. Реализация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Введение.md",
+                "file": "5. Реализация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Введение.md"
+                "file": "5. Реализация.md"
               }
             }
           }
@@ -171,16 +181,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b23b087722c7dba",
+  "active": "0c3f254c04c21b1a",
   "lastOpenFiles": [
-    "2. Анализ предметной области.md",
     "4. Проектирование.md",
-    "5. Реализация.md",
-    "Структура.md",
-    "8. Список источников.md",
-    "7. Заключение.md",
-    "6. Тестирование.md",
+    "2. Анализ предметной области.md",
     "1. Введение.md",
+    "5. Реализация.md",
+    "6. Тестирование.md",
+    "7. Заключение.md",
+    "8. Список источников.md",
+    "use-case-diagram.png",
+    "Mastodon CLI.png",
+    "Untitled",
+    "temp.md",
+    "Структура.md",
     "0. Условные обозначения.md",
     "3. Исследование платформы Luwrain.md",
     "1.1. Актуальность?.md",
