@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "98616fc31b9cc3f2",
+        "id": "daf5193e4dee3d19",
         "type": "tabs",
         "children": [
           {
-            "id": "5a6eefdb6eee7866",
+            "id": "485ebda89ee029d0",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "img/IStorage-diagram.png"
-              }
-            }
-          },
-          {
-            "id": "0c3f254c04c21b1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Реализация.md",
-                "mode": "source",
-                "source": false
+                "file": "img/LuwrainUI.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Реализация.md",
+                "file": "img/LuwrainUI.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Реализация.md",
+                "file": "img/LuwrainUI.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Реализация.md"
+                "file": "img/LuwrainUI.png"
               }
             }
           }
@@ -157,30 +144,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c3f254c04c21b1a",
+  "active": "c88dfb350e9d496c",
   "lastOpenFiles": [
-    "img/Layers-diagram.png",
+    "0. Условные обозначения.md",
+    "2. Анализ предметной области.md",
+    "img/LuwrainUI.png",
+    "4. Проектирование.md",
     "7. Заключение.md",
+    "5. Реализация.md",
+    "img/IStorage-diagram.png",
+    "img/TimelineScreen.png",
+    "img/RegisterScreen.png",
+    "img/MenuScreen.png",
+    "img/RegisterForm.png",
+    "img/Layout-diagram.png",
+    "img/Layers-diagram.png",
     "1. Введение.md",
     "Структура.md",
     "temp.md",
     "8. Список источников.md",
-    "5. Реализация.md",
-    "4. Проектирование.md",
-    "2. Анализ предметной области.md",
-    "0. Условные обозначения.md",
     "6. Тестирование.md",
     "img/Architecture-layers-diagram.png",
     "img/IMastodon-diagram.png",
     "img",
-    "img/IStorage-diagram.png",
-    "img/use-case-diagram.png",
-    "Mastodon CLI - Page 2(1).png",
-    "Mastodon CLI.png",
     "3. Исследование платформы Luwrain.md",
     "1.1. Актуальность?.md",
-    "mastodon-web-ed.png",
-    "mastodon-web.png",
     "Welcome.md"
   ]
 }
