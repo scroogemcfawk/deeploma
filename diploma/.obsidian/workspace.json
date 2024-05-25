@@ -11,23 +11,9 @@
             "id": "5a6eefdb6eee7866",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1. Введение.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b23b087722c7dba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Проектирование.md",
-                "mode": "source",
-                "source": false
+                "file": "img/IStorage-diagram.png"
               }
             }
           },
@@ -37,19 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Проектирование.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75009790132f9b5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8. Список источников.md",
+                "file": "0. Условные обозначения.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Проектирование.md",
+                "file": "0. Условные обозначения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Проектирование.md",
+                "file": "0. Условные обозначения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Проектирование.md"
+                "file": "0. Условные обозначения.md"
               }
             }
           }
@@ -183,21 +157,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b23b087722c7dba",
+  "active": "0c3f254c04c21b1a",
   "lastOpenFiles": [
+    "img/Architecture-layers-diagram.png",
+    "img/IMastodon-diagram.png",
     "5. Реализация.md",
-    "2. Анализ предметной области.md",
-    "4. Проектирование.md",
-    "6. Тестирование.md",
+    "img",
     "8. Список источников.md",
+    "4. Проектирование.md",
+    "img/IStorage-diagram.png",
     "1. Введение.md",
+    "0. Условные обозначения.md",
+    "2. Анализ предметной области.md",
+    "6. Тестирование.md",
     "7. Заключение.md",
-    "use-case-diagram.png",
+    "img/use-case-diagram.png",
     "Mastodon CLI - Page 2(1).png",
     "temp.md",
-    "0. Условные обозначения.md",
     "Mastodon CLI.png",
-    "Untitled",
     "Структура.md",
     "3. Исследование платформы Luwrain.md",
     "1.1. Актуальность?.md",
