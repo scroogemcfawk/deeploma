@@ -11,9 +11,11 @@
             "id": "485ebda89ee029d0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/LuwrainUI.png"
+                "file": "0. Условные обозначения.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/LuwrainUI.png",
+                "file": "0. Условные обозначения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/LuwrainUI.png",
+                "file": "0. Условные обозначения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/LuwrainUI.png"
+                "file": "0. Условные обозначения.md"
               }
             }
           }
@@ -144,14 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c88dfb350e9d496c",
+  "active": "485ebda89ee029d0",
   "lastOpenFiles": [
-    "0. Условные обозначения.md",
+    "1. Введение.md",
     "2. Анализ предметной области.md",
-    "img/LuwrainUI.png",
     "4. Проектирование.md",
-    "7. Заключение.md",
     "5. Реализация.md",
+    "7. Заключение.md",
+    "8. Список источников.md",
+    "0. Условные обозначения.md",
+    "img/LuwrainUI.png",
     "img/IStorage-diagram.png",
     "img/TimelineScreen.png",
     "img/RegisterScreen.png",
@@ -159,10 +163,8 @@
     "img/RegisterForm.png",
     "img/Layout-diagram.png",
     "img/Layers-diagram.png",
-    "1. Введение.md",
     "Структура.md",
     "temp.md",
-    "8. Список источников.md",
     "6. Тестирование.md",
     "img/Architecture-layers-diagram.png",
     "img/IMastodon-diagram.png",
