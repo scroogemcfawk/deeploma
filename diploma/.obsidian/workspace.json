@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Условные обозначения.md",
+                "file": "5. Реализация.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Условные обозначения.md",
+                "file": "5. Реализация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Условные обозначения.md",
+                "file": "5. Реализация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Условные обозначения.md"
+                "file": "5. Реализация.md"
               }
             }
           }
@@ -159,23 +159,24 @@
   },
   "active": "0c3f254c04c21b1a",
   "lastOpenFiles": [
+    "img/Layers-diagram.png",
+    "7. Заключение.md",
+    "1. Введение.md",
+    "Структура.md",
+    "temp.md",
+    "8. Список источников.md",
+    "5. Реализация.md",
+    "4. Проектирование.md",
+    "2. Анализ предметной области.md",
+    "0. Условные обозначения.md",
+    "6. Тестирование.md",
     "img/Architecture-layers-diagram.png",
     "img/IMastodon-diagram.png",
-    "5. Реализация.md",
     "img",
-    "8. Список источников.md",
-    "4. Проектирование.md",
     "img/IStorage-diagram.png",
-    "1. Введение.md",
-    "0. Условные обозначения.md",
-    "2. Анализ предметной области.md",
-    "6. Тестирование.md",
-    "7. Заключение.md",
     "img/use-case-diagram.png",
     "Mastodon CLI - Page 2(1).png",
-    "temp.md",
     "Mastodon CLI.png",
-    "Структура.md",
     "3. Исследование платформы Luwrain.md",
     "1.1. Актуальность?.md",
     "mastodon-web-ed.png",
